@@ -1,0 +1,56 @@
+[
+  {
+    "Nombre": "Papa",
+    "Descripcion": "organico",
+    "Stock": 100,
+    "MarcaId": 1,
+    "CategoriaId": 1,
+    "Precio": 120,
+    "Imagen": ""
+  },
+  {
+    "Nombre": "Camote",
+    "Descripcion": "camote organico sin procesar",
+    "Stock": 600,
+    "MarcaId": 2,
+    "CategoriaId": 2,
+    "Precio": 60,
+    "Imagen": ""
+  },
+  {
+    "Nombre": "Coliflor",
+    "Descripcion": "prduto importado",
+    "Stock": 500,
+    "MarcaId": 3,
+    "CategoriaId": 1,
+    "Precio": 50,
+    "Imagen": ""
+  },
+  {
+    "Nombre": "Zapallo",
+    "Descripcion": "Zapallo transgenico",
+    "Stock": 1000,
+    "MarcaId": 4,
+    "CategoriaId": 1,
+    "Precio": 120,
+    "Imagen": ""
+  },
+  {
+    "Nombre": "choclo",
+    "Descripcion": "libre de quimicos",
+    "Stock": 600,
+    "MarcaId": 2,
+    "CategoriaId": 3,
+    "Precio": 120,
+    "Imagen": ""
+  },
+  {
+    "Nombre": "Borojo",
+    "Descripcion": "fruta tropical",
+    "Stock": 200,
+    "MarcaId": 1,
+    "CategoriaId": 4,
+    "Precio": 500,
+    "Imagen": ""
+  }
+]
